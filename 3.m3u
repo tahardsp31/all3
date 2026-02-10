@@ -545,6 +545,8 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=698856&exte
 
 
 
+
+
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249861&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249861&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=249861&extension=ts
@@ -552,7 +554,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249861&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249861&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249861&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249861&extension=ts
-#EXTINF:-1 tvg-id="249861" tvg-logo="http://51.158.145.100/picons/logos/arabic/249861.png" group-title="|AR| ALGERIA",##### DZ - ALGERIA ##### | APPS TV | M3U
+#EXTINF:-1 tvg-id="249861" tvg-logo="http://51.158.145.100/picons/logos/arabic/249861.png" group-title="|AR| ALGERIA",##### DZ - ALGERIA ##### 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249834&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249834&extension=ts
@@ -561,7 +563,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249834&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249834&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249834&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249834&extension=ts
-#EXTINF:-1 tvg-id="249834" tvg-logo="http://51.158.145.100/picons/logos/arabic/249834.png" group-title="|AR| ALGERIA",DZ - EN TV ALGERIE ◉ | APPS TV | M3U
+#EXTINF:-1 tvg-id="249834" tvg-logo="http://51.158.145.100/picons/logos/arabic/249834.png" group-title="|AR| ALGERIA",DZ - EN TV ALGERIE ◉ 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249841&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249841&extension=ts
@@ -570,7 +572,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249841&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249841&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249841&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249841&extension=ts
-#EXTINF:-1 tvg-id="249841" tvg-logo="http://51.158.145.100/picons/logos/arabic/249841.png" group-title="|AR| ALGERIA",DZ - A3 HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="249841" tvg-logo="http://51.158.145.100/picons/logos/arabic/249841.png" group-title="|AR| ALGERIA",DZ - A3 HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249835&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249835&extension=ts
@@ -579,7 +581,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249835&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249835&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249835&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249835&extension=ts
-#EXTINF:-1 tvg-id="249835" tvg-logo="http://51.158.145.100/picons/logos/arabic/249835.png" group-title="|AR| ALGERIA",DZ - CANAL ALGERIE * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249835" tvg-logo="http://51.158.145.100/picons/logos/arabic/249835.png" group-title="|AR| ALGERIA",DZ - CANAL ALGERIE * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249839&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249839&extension=ts
@@ -588,7 +590,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249839&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249839&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249839&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249839&extension=ts
-#EXTINF:-1 tvg-id="249839" tvg-logo="http://51.158.145.100/picons/logos/arabic/249839.png" group-title="|AR| ALGERIA",DZ - TAMAZIGH TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249839" tvg-logo="http://51.158.145.100/picons/logos/arabic/249839.png" group-title="|AR| ALGERIA",DZ - TAMAZIGH TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249847&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249847&extension=ts
@@ -597,7 +599,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249847&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249847&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249847&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249847&extension=ts
-#EXTINF:-1 tvg-id="249847" tvg-logo="http://51.158.145.100/picons/logos/arabic/249847.png" group-title="|AR| ALGERIA",DZ - TV CORAN * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249847" tvg-logo="http://51.158.145.100/picons/logos/arabic/249847.png" group-title="|AR| ALGERIA",DZ - TV CORAN * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=556869&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=556869&extension=ts
@@ -606,7 +608,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=556869&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=556869&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=556869&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=556869&extension=ts
-#EXTINF:-1 tvg-id="556869" tvg-logo="http://51.158.145.100/picons/logos/arabic/556869.png" group-title="|AR| ALGERIA",DZ - ALMAARIFA TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="556869" tvg-logo="http://51.158.145.100/picons/logos/arabic/556869.png" group-title="|AR| ALGERIA",DZ - ALMAARIFA TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249838&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249838&extension=ts
@@ -615,7 +617,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249838&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249838&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249838&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249838&extension=ts
-#EXTINF:-1 tvg-id="249838" tvg-logo="http://51.158.145.100/picons/logos/arabic/249838.png" group-title="|AR| ALGERIA",DZ - CANAL 6 ALGERIE * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249838" tvg-logo="http://51.158.145.100/picons/logos/arabic/249838.png" group-title="|AR| ALGERIA",DZ - CANAL 6 ALGERIE * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=556860&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=556860&extension=ts
@@ -624,7 +626,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=556860&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=556860&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=556860&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=556860&extension=ts
-#EXTINF:-1 tvg-id="556860" tvg-logo="http://51.158.145.100/picons/logos/arabic/556860.png" group-title="|AR| ALGERIA",DZ - WATANIA TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="556860" tvg-logo="http://51.158.145.100/picons/logos/arabic/556860.png" group-title="|AR| ALGERIA",DZ - WATANIA TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249843&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249843&extension=ts
@@ -633,7 +635,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249843&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249843&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249843&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249843&extension=ts
-#EXTINF:-1 tvg-id="249843" tvg-logo="http://51.158.145.100/picons/logos/arabic/249843.png" group-title="|AR| ALGERIA",DZ - ECHOROUK TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249843" tvg-logo="http://51.158.145.100/picons/logos/arabic/249843.png" group-title="|AR| ALGERIA",DZ - ECHOROUK TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249845&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249845&extension=ts
@@ -642,7 +644,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249845&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249845&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249845&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249845&extension=ts
-#EXTINF:-1 tvg-id="249845" tvg-logo="http://51.158.145.100/picons/logos/arabic/249845.png" group-title="|AR| ALGERIA",DZ - ENNAHAR TV | APPS TV | M3U
+#EXTINF:-1 tvg-id="249845" tvg-logo="http://51.158.145.100/picons/logos/arabic/249845.png" group-title="|AR| ALGERIA",DZ - ENNAHAR TV 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=457168&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=457168&extension=ts
@@ -651,7 +653,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=457168&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=457168&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=457168&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=457168&extension=ts
-#EXTINF:-1 tvg-id="457168" tvg-logo="http://51.158.145.100/picons/logos/arabic/457168.png" group-title="|AR| ALGERIA",DZ - EL HEDDAF TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="457168" tvg-logo="http://51.158.145.100/picons/logos/arabic/457168.png" group-title="|AR| ALGERIA",DZ - EL HEDDAF TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249848&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249848&extension=ts
@@ -660,7 +662,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249848&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249848&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249848&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249848&extension=ts
-#EXTINF:-1 tvg-id="249848" tvg-logo="http://51.158.145.100/picons/logos/arabic/249848.png" group-title="|AR| ALGERIA",DZ - SAMIRA TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249848" tvg-logo="http://51.158.145.100/picons/logos/arabic/249848.png" group-title="|AR| ALGERIA",DZ - SAMIRA TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249844&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249844&extension=ts
@@ -669,7 +671,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249844&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249844&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249844&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249844&extension=ts
-#EXTINF:-1 tvg-id="249844" tvg-logo="http://51.158.145.100/picons/logos/arabic/249844.png" group-title="|AR| ALGERIA",DZ - ECHOROUK NEWS * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249844" tvg-logo="http://51.158.145.100/picons/logos/arabic/249844.png" group-title="|AR| ALGERIA",DZ - ECHOROUK NEWS * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=716947&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=716947&extension=ts
@@ -678,7 +680,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=716947&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=716947&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=716947&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=716947&extension=ts
-#EXTINF:-1 tvg-id="716947" tvg-logo="http://51.158.145.100/picons/logos/arabic/716947.png" group-title="|AR| ALGERIA",DZ - AMOU YAZID TOFOLA TV | APPS TV | M3U
+#EXTINF:-1 tvg-id="716947" tvg-logo="http://51.158.145.100/picons/logos/arabic/716947.png" group-title="|AR| ALGERIA",DZ - AMOU YAZID TOFOLA TV 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=656033&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=656033&extension=ts
@@ -687,7 +689,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=656033&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=656033&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=656033&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=656033&extension=ts
-#EXTINF:-1 tvg-id="656033" tvg-logo="http://51.158.145.100/picons/logos/arabic/656033.png" group-title="|AR| ALGERIA",DZ - Zahra TV | APPS TV | M3U
+#EXTINF:-1 tvg-id="656033" tvg-logo="http://51.158.145.100/picons/logos/arabic/656033.png" group-title="|AR| ALGERIA",DZ - Zahra TV 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249858&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249858&extension=ts
@@ -696,7 +698,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249858&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249858&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249858&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249858&extension=ts
-#EXTINF:-1 tvg-id="249858" tvg-logo="http://51.158.145.100/picons/logos/arabic/249858.png" group-title="|AR| ALGERIA",DZ - BEUR TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249858" tvg-logo="http://51.158.145.100/picons/logos/arabic/249858.png" group-title="|AR| ALGERIA",DZ - BEUR TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249860&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249860&extension=ts
@@ -705,7 +707,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249860&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249860&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249860&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249860&extension=ts
-#EXTINF:-1 tvg-id="249860" tvg-logo="http://51.158.145.100/picons/logos/arabic/249860.png" group-title="|AR| ALGERIA",DZ - EL HAYAT TV ALGERIE * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249860" tvg-logo="http://51.158.145.100/picons/logos/arabic/249860.png" group-title="|AR| ALGERIA",DZ - EL HAYAT TV ALGERIE * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249855&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249855&extension=ts
@@ -714,7 +716,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249855&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249855&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249855&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249855&extension=ts
-#EXTINF:-1 tvg-id="249855" tvg-logo="http://51.158.145.100/picons/logos/arabic/249855.png" group-title="|AR| ALGERIA",DZ - BAHYA TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249855" tvg-logo="http://51.158.145.100/picons/logos/arabic/249855.png" group-title="|AR| ALGERIA",DZ - BAHYA TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249859&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249859&extension=ts
@@ -723,7 +725,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249859&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249859&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249859&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249859&extension=ts
-#EXTINF:-1 tvg-id="249859" tvg-logo="http://51.158.145.100/picons/logos/arabic/249859.png" group-title="|AR| ALGERIA",DZ - BERBERE TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249859" tvg-logo="http://51.158.145.100/picons/logos/arabic/249859.png" group-title="|AR| ALGERIA",DZ - BERBERE TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249854&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249854&extension=ts
@@ -732,7 +734,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249854&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249854&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249854&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249854&extension=ts
-#EXTINF:-1 tvg-id="249854" tvg-logo="http://51.158.145.100/picons/logos/arabic/249854.png" group-title="|AR| ALGERIA",DZ - EL DJAZAIRIA TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249854" tvg-logo="http://51.158.145.100/picons/logos/arabic/249854.png" group-title="|AR| ALGERIA",DZ - EL DJAZAIRIA TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=556864&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=556864&extension=ts
@@ -741,7 +743,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=556864&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=556864&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=556864&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=556864&extension=ts
-#EXTINF:-1 tvg-id="556864" tvg-logo="http://51.158.145.100/picons/logos/arabic/556864.png" group-title="|AR| ALGERIA",DZ - El Djazair N1 | APPS TV | M3U
+#EXTINF:-1 tvg-id="556864" tvg-logo="http://51.158.145.100/picons/logos/arabic/556864.png" group-title="|AR| ALGERIA",DZ - El Djazair N1 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249856&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249856&extension=ts
@@ -750,7 +752,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249856&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249856&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249856&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249856&extension=ts
-#EXTINF:-1 tvg-id="249856" tvg-logo="http://51.158.145.100/picons/logos/arabic/249856.png" group-title="|AR| ALGERIA",DZ - AL MAGHARIBIA * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249856" tvg-logo="http://51.158.145.100/picons/logos/arabic/249856.png" group-title="|AR| ALGERIA",DZ - AL MAGHARIBIA * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249857&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249857&extension=ts
@@ -759,7 +761,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249857&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249857&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249857&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249857&extension=ts
-#EXTINF:-1 tvg-id="249857" tvg-logo="http://51.158.145.100/picons/logos/arabic/249857.png" group-title="|AR| ALGERIA",DZ - EL BILAD TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="249857" tvg-logo="http://51.158.145.100/picons/logos/arabic/249857.png" group-title="|AR| ALGERIA",DZ - EL BILAD TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=558042&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=558042&extension=ts
@@ -768,7 +770,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=558042&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=558042&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=558042&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=558042&extension=ts
-#EXTINF:-1 tvg-id="558042" tvg-logo="http://51.158.145.100/picons/logos/arabic/558042.png" group-title="|AR| ALGERIA",DZ - AL ANIS TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="558042" tvg-logo="http://51.158.145.100/picons/logos/arabic/558042.png" group-title="|AR| ALGERIA",DZ - AL ANIS TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=698790&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=698790&extension=ts
@@ -777,7 +779,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=698790&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=698790&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=698790&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=698790&extension=ts
-#EXTINF:-1 tvg-id="698790" tvg-logo="http://51.158.145.100/picons/logos/arabic/698790.png" group-title="|AR| ALGERIA",DZ - EL FAJR DRAMA | APPS TV | M3U
+#EXTINF:-1 tvg-id="698790" tvg-logo="http://51.158.145.100/picons/logos/arabic/698790.png" group-title="|AR| ALGERIA",DZ - EL FAJR DRAMA 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1079359&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1079359&extension=ts
@@ -786,7 +788,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1079359&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1079359&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1079359&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1079359&extension=ts
-#EXTINF:-1 tvg-id="1079359" tvg-logo="http://51.158.145.100/picons/logos/arabic/1079359.png" group-title="|AR| ALGERIA",DZ - ALGERIA ONE TV HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="1079359" tvg-logo="http://51.158.145.100/picons/logos/arabic/1079359.png" group-title="|AR| ALGERIA",DZ - ALGERIA ONE TV HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249837&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249837&extension=ts
@@ -795,7 +797,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249837&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249837&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249837&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249837&extension=ts
-#EXTINF:-1 tvg-id="249837" tvg-logo="http://51.158.145.100/picons/logos/arabic/249837.png" group-title="|AR| ALGERIA",DZ - ALGERIA TV CORAN | APPS TV | M3U
+#EXTINF:-1 tvg-id="249837" tvg-logo="http://51.158.145.100/picons/logos/arabic/249837.png" group-title="|AR| ALGERIA",DZ - ALGERIA TV CORAN 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=698792&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=698792&extension=ts
@@ -804,7 +806,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=698792&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=698792&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=698792&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=698792&extension=ts
-#EXTINF:-1 tvg-id="698792" tvg-logo="http://51.158.145.100/picons/logos/arabic/698792.png" group-title="|AR| ALGERIA",DZ - ALGERIAN 4KIDS | APPS TV | M3U
+#EXTINF:-1 tvg-id="698792" tvg-logo="http://51.158.145.100/picons/logos/arabic/698792.png" group-title="|AR| ALGERIA",DZ - ALGERIAN 4KIDS 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=648877&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=648877&extension=ts
@@ -813,7 +815,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=648877&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=648877&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=648877&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=648877&extension=ts
-#EXTINF:-1 tvg-id="648877" tvg-logo="http://51.158.145.100/picons/logos/arabic/648877.png" group-title="|AR| ALGERIA",DZ - AL24 NEWS | APPS TV | M3U
+#EXTINF:-1 tvg-id="648877" tvg-logo="http://51.158.145.100/picons/logos/arabic/648877.png" group-title="|AR| ALGERIA",DZ - AL24 NEWS 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249852&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249852&extension=ts
@@ -822,7 +824,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249852&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249852&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249852&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249852&extension=ts
-#EXTINF:-1 tvg-id="249852" tvg-logo="http://51.158.145.100/picons/logos/arabic/249852.png" group-title="|AR| ALGERIA",DZ - DZAIR JANNAH | APPS TV | M3U
+#EXTINF:-1 tvg-id="249852" tvg-logo="http://51.158.145.100/picons/logos/arabic/249852.png" group-title="|AR| ALGERIA",DZ - DZAIR JANNAH 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249846&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249846&extension=ts
@@ -831,7 +833,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249846&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249846&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249846&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249846&extension=ts
-#EXTINF:-1 tvg-id="249846" tvg-logo="http://51.158.145.100/picons/logos/arabic/249846.png" group-title="|AR| ALGERIA",DZ - MISR QURAN KAREEM | APPS TV | M3U
+#EXTINF:-1 tvg-id="249846" tvg-logo="http://51.158.145.100/picons/logos/arabic/249846.png" group-title="|AR| ALGERIA",DZ - MISR QURAN KAREEM 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249836&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249836&extension=ts
@@ -840,7 +842,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249836&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249836&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249836&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249836&extension=ts
-#EXTINF:-1 tvg-id="249836" tvg-logo="http://51.158.145.100/picons/logos/arabic/249836.png" group-title="|AR| ALGERIA",DZ - TV5 MONDE STYLE | APPS TV | M3U
+#EXTINF:-1 tvg-id="249836" tvg-logo="http://51.158.145.100/picons/logos/arabic/249836.png" group-title="|AR| ALGERIA",DZ - TV5 MONDE STYLE 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=556868&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=556868&extension=ts
@@ -849,7 +851,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=556868&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=556868&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=556868&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=556868&extension=ts
-#EXTINF:-1 tvg-id="556868" tvg-logo="http://51.158.145.100/picons/logos/arabic/556868.png" group-title="|AR| ALGERIA",DZ - ALGÉRIE CANAL TV 2 | APPS TV | M3U
+#EXTINF:-1 tvg-id="556868" tvg-logo="http://51.158.145.100/picons/logos/arabic/556868.png" group-title="|AR| ALGERIA",DZ - ALGÉRIE CANAL TV 2 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=720724&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=720724&extension=ts
@@ -858,7 +860,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=720724&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=720724&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=720724&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=720724&extension=ts
-#EXTINF:-1 tvg-id="720724" tvg-logo="http://51.158.145.100/picons/logos/arabic/720724.png" group-title="|AR| ALGERIA",DZ - EL FAJR DRAMA | APPS TV | M3U
+#EXTINF:-1 tvg-id="720724" tvg-logo="http://51.158.145.100/picons/logos/arabic/720724.png" group-title="|AR| ALGERIA",DZ - EL FAJR DRAMA 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=556867&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=556867&extension=ts
@@ -867,7 +869,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=556867&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=556867&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=556867&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=556867&extension=ts
-#EXTINF:-1 tvg-id="556867" tvg-logo="http://51.158.145.100/picons/logos/arabic/556867.png" group-title="|AR| ALGERIA",DZ - BEUR TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="556867" tvg-logo="http://51.158.145.100/picons/logos/arabic/556867.png" group-title="|AR| ALGERIA",DZ - BEUR TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=556861&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=556861&extension=ts
@@ -876,7 +878,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=556861&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=556861&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=556861&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=556861&extension=ts
-#EXTINF:-1 tvg-id="556861" tvg-logo="http://51.158.145.100/picons/logos/arabic/556861.png" group-title="|AR| ALGERIA",DZ - AL SAHRAA | APPS TV | M3U
+#EXTINF:-1 tvg-id="556861" tvg-logo="http://51.158.145.100/picons/logos/arabic/556861.png" group-title="|AR| ALGERIA",DZ - AL SAHRAA 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=573169&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=573169&extension=ts
@@ -885,7 +887,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=573169&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=573169&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=573169&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=573169&extension=ts
-#EXTINF:-1 tvg-id="573169" tvg-logo="http://51.158.145.100/picons/logos/arabic/573169.png" group-title="|AR| ALGERIA",DZ - ELDJAZAIR N1 TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="573169" tvg-logo="http://51.158.145.100/picons/logos/arabic/573169.png" group-title="|AR| ALGERIA",DZ - ELDJAZAIR N1 TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=573168&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=573168&extension=ts
@@ -894,7 +896,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=573168&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=573168&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=573168&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=573168&extension=ts
-#EXTINF:-1 tvg-id="573168" tvg-logo="http://51.158.145.100/picons/logos/arabic/573168.png" group-title="|AR| ALGERIA",DZ - EL ADJWAA TV * | APPS TV | M3U
+#EXTINF:-1 tvg-id="573168" tvg-logo="http://51.158.145.100/picons/logos/arabic/573168.png" group-title="|AR| ALGERIA",DZ - EL ADJWAA TV * 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=249853&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=249853&extension=ts
@@ -903,7 +905,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249853&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249853&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249853&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249853&extension=ts
-#EXTINF:-1 tvg-id="249853" tvg-logo="http://51.158.145.100/picons/logos/arabic/249853.png" group-title="|AR| ALGERIA",DZ - EL DJAZAIRIA1 | APPS TV | M3U
+#EXTINF:-1 tvg-id="249853" tvg-logo="http://51.158.145.100/picons/logos/arabic/249853.png" group-title="|AR| ALGERIA",DZ - EL DJAZAIRIA1 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=556862&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=556862&extension=ts
@@ -912,7 +914,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=556862&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=556862&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=556862&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=556862&extension=ts
-#EXTINF:-1 tvg-id="556862" tvg-logo="http://51.158.145.100/picons/logos/arabic/556862.png" group-title="|AR| ALGERIA",DZ - AL SALAM | APPS TV | M3U
+#EXTINF:-1 tvg-id="556862" tvg-logo="http://51.158.145.100/picons/logos/arabic/556862.png" group-title="|AR| ALGERIA",DZ - AL SALAM 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=648876&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=648876&extension=ts
@@ -921,7 +923,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=648876&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=648876&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=648876&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=648876&extension=ts
-#EXTINF:-1 tvg-id="648876" tvg-logo="http://51.158.145.100/picons/logos/arabic/648876.png" group-title="|AR| ALGERIA",DZ - ALGERIE TV8 EDHAKIRA | APPS TV | M3U
+#EXTINF:-1 tvg-id="648876" tvg-logo="http://51.158.145.100/picons/logos/arabic/648876.png" group-title="|AR| ALGERIA",DZ - ALGERIE TV8 EDHAKIRA 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=753363&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=753363&extension=ts
@@ -930,12 +932,5 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=753363&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=753363&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=753363&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=753363&extension=ts
-#EXTINF:-1 tvg-id="753363" tvg-logo="http://51.158.145.100/picons/logos/arabic/753363.png" group-title="|AR| ALGERIA",DZ -  AL MAGHARIBIA | APPS TV | M3U
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="753363" tvg-logo="http://51.158.145.100/picons/logos/arabic/753363.png" group-title="|AR| ALGERIA",DZ -  AL MAGHARIBIA 
 
